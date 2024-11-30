@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Fancy Hat",
+        "sizeX": 2,
+        "sizeY": 1,
+        "sizeZ": 2,
+        "color": { "r": 255, "g": 0, "b": 0 }
+    },
+    {
+        "name": "Cool Glasses",
+        "sizeX": 1,
+        "sizeY": 0.5,
+        "sizeZ": 1,
+        "color": { "r": 0, "g": 255, "b": 0 }
+    }
+]
+
